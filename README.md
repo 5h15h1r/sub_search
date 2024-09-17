@@ -36,15 +36,24 @@ Clone the repository
     ```
 
 ## Approach
-!(https://raw.githubusercontent.com/5h15h1r/sub_search/main/screenshots/architecture.png)
-
+![](https://raw.githubusercontent.com/5h15h1r/sub_search/main/screenshots/architecture.png)
 ## Screenshots
-!(https://raw.githubusercontent.com/5h15h1r/sub_search/main/screenshots/ss1.jpeg)
-!(https://raw.githubusercontent.com/5h15h1r/sub_search/main/screenshots/ss2.jpeg)
-!(https://raw.githubusercontent.com/5h15h1r/sub_search/main/screenshots/ss3.jpeg)
-!(https://raw.githubusercontent.com/5h15h1r/sub_search/main/screenshots/ss4.jpeg)
-!(https://raw.githubusercontent.com/5h15h1r/sub_search/main/screenshots/ss5.jpeg)
-!(https://raw.githubusercontent.com/5h15h1r/sub_search/main/screenshots/ss6.jpeg)
-!(https://raw.githubusercontent.com/5h15h1r/sub_search/main/screenshots/ss7.jpeg)
-!(https://raw.githubusercontent.com/5h15h1r/sub_search/main/screenshots/ss8.jpeg)
+
+<p float="left">
+  <img src="https://raw.githubusercontent.com/5h15h1r/sub_search/main/screenshots/ss1.jpeg" width="200" />
+  <img src="https://raw.githubusercontent.com/5h15h1r/sub_search/main/screenshots/ss2.jpeg" width="200" /> 
+  <img src="https://raw.githubusercontent.com/5h15h1r/sub_search/main/screenshots/ss3.jpeg" width="200" />
+</p>
+
+<p float="left">
+  <img src="https://raw.githubusercontent.com/5h15h1r/sub_search/main/screenshots/ss4.jpeg" width="200" />
+  <img src="https://raw.githubusercontent.com/5h15h1r/sub_search/main/screenshots/ss5.jpeg" width="200" />
+  <img src="https://raw.githubusercontent.com/5h15h1r/sub_search/main/screenshots/ss6.jpeg" width="200" />
+</p>
+
+<p float="left">
+  <img src="https://raw.githubusercontent.com/5h15h1r/sub_search/main/screenshots/ss7.jpeg" width="200" />
+  <img src="https://raw.githubusercontent.com/5h15h1r/sub_search/main/screenshots/ss8.jpeg" width="200" />
+</p>
+
 
