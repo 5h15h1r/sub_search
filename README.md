@@ -36,15 +36,15 @@ Clone the repository
     ```
 
 ## Approach
-(https://raw.githubusercontent.com/5h15h1r/sub_search/main/screenshots/architecture.png)
+!(https://raw.githubusercontent.com/5h15h1r/sub_search/main/screenshots/architecture.png)
 
 ## Screenshots
-(https://raw.githubusercontent.com/5h15h1r/sub_search/main/screenshots/ss1.jpeg)
-(https://raw.githubusercontent.com/5h15h1r/sub_search/main/screenshots/ss2.jpeg)
-(https://raw.githubusercontent.com/5h15h1r/sub_search/main/screenshots/ss3.jpeg)
-(https://raw.githubusercontent.com/5h15h1r/sub_search/main/screenshots/ss4.jpeg)
-(https://raw.githubusercontent.com/5h15h1r/sub_search/main/screenshots/ss5.jpeg)
-(https://raw.githubusercontent.com/5h15h1r/sub_search/main/screenshots/ss6.jpeg)
-(https://raw.githubusercontent.com/5h15h1r/sub_search/main/screenshots/ss7.jpeg)
-(https://raw.githubusercontent.com/5h15h1r/sub_search/main/screenshots/ss8.jpeg)
+!(https://raw.githubusercontent.com/5h15h1r/sub_search/main/screenshots/ss1.jpeg)
+!(https://raw.githubusercontent.com/5h15h1r/sub_search/main/screenshots/ss2.jpeg)
+!(https://raw.githubusercontent.com/5h15h1r/sub_search/main/screenshots/ss3.jpeg)
+!(https://raw.githubusercontent.com/5h15h1r/sub_search/main/screenshots/ss4.jpeg)
+!(https://raw.githubusercontent.com/5h15h1r/sub_search/main/screenshots/ss5.jpeg)
+!(https://raw.githubusercontent.com/5h15h1r/sub_search/main/screenshots/ss6.jpeg)
+!(https://raw.githubusercontent.com/5h15h1r/sub_search/main/screenshots/ss7.jpeg)
+!(https://raw.githubusercontent.com/5h15h1r/sub_search/main/screenshots/ss8.jpeg)
 
