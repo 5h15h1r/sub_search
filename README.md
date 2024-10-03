@@ -1,5 +1,5 @@
 # Subsearch
-An app to extract videos from uploaded videos and  and have transcript features with search functionality.
+An app to extract subtitles from uploaded videos and  and have transcript features with search functionality.
 ## Assignment
 
 
